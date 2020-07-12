@@ -1,0 +1,1 @@
+python src/classifier.py TRAIN ./train/amit/  ./model/testmodel/20180402-114759.pb  --batch_size 1000
